@@ -1,70 +1,74 @@
-#Netflix GPT
+The MOVIES-GPT App is an AI-driven platform that enhances the Netflix experience. It leverages OpenAI's GPT-3.5 model to provide personalized content recommendations .This project is for Netflix enthusiasts seeking a more engaging and customized streaming experience. It empowers users to explore content effortlessly, engage in natural language interactions, and gain a deeper understanding of their favorite shows and movies. Whether you're a seasoned Netflix user or just starting your streaming journey, this app is designed to make your entertainment experience more enjoyable and enriching.
 
--Create React App
--Configured TailwindCSS
--Header
--Routing
--Login Form
--Sign up Form
--Form Validation
--useRef Hook
--Firebase Setup
--Deploying our app to production
--Create SignUp user Account
--Implement Sign In User Api
--Create Redux store eith userSlice
--Implemented Sign Out
--Update Profile
--BugFix: Sign Up User displayName.
-BugFix: if the user is not logged in Redirect /browse to Login Page and vice-versa
--Unsubscribed to the onAuthStateChanged callback
--Add hardcoded values to the constants file
--Register TMDB API & create an app & get access token
--Get data from TMDB now playing movies list API
--Custom Hook for Now Playing Movies
-Create movieSlice
-Update Store with movies Data
-Planning for MainContauiner & secondary container
-Fetch Data for Trailer Video
-Update Store with Trailer Video Data
-Embedded the Yotube video and make it autoplay and mute
-Tailwind Classes to make Main Container look awesome
-Build Secondary Component
-Build Movie List
-build Movie Card
-TMDB Image CDN URL
-Made the Browsre page amazing with Tailwind CSS
-usePopularMovies Custom hook
-GPT Search Page
-GPT Search Bar
-(BONUS) Multi-language Feature in our App)
-Get Open AI Api Key
-Gpt Search API Call
-fetched gptMoviesSuggestions from TMDB
-created gptSlice added data
-Resused Movie List component to make movie suggestion container
-Memoization
-Added .env file
-Adding .env file to gitignore
-Made our Site Responsive
+View Demo · High Level Design · Low Level Design · Documentation · Report Bug · Request Feature
+📔 Table of Contents
+About the Project
+
+Contact
+
+🌟 About the Project
+📷 Screenshots
+image
+image
+image
+🎯 Features
+GPT-Search
+Authentication
+Internationalisation
+TMDB API
+Memoisation
+🎨 Color Reference
+Color	Hex
+Primary Color	#E50914 #E50914
+Secondary Color	#0f0d0e #0f0d0e
+Accent Color	#fcba28 #fcba28
+Text Color	#fff #fff
+🔑 Environment Variables
+To run this project, you will need to add the following environment variables to your .env file
+
+OPENAPI_KEY
+
+TMDB_KEY
+
+FIRE_BASE_API_KEY
+
+🧰 Getting Started
+‼️ Prerequisites
+Install Node Js in your computer Here
+
+Setup Firebase Here
+
+Get you OpenAI Platform API key Here
+
+Get you TMDB API key Here
+
+🏃 Run Locally
+Clone the project
+
+https://github.com/Shanukumar2929
+Go to the repository and find these repository
+Go to the project directory
+
+cd netflix-gpt
+Install dependencies
+
+npm i
+Start the server
+
+npm run dev
+🚩 Deployment
+To deploy this project run
+
+firebase deploy
+👋 Contributing
 
 
+Contributions are always welcome!
 
+see contributing.md for ways to get started
 
+📜 Code of Conduct
+Please read the Code of Conduct
 
-
-
-#Features
--Login/Sign Up
-   -Sign In/Sign up Form
-   -redirect to browse Page
--Browse (after authentication)
-  -Header
-  -Main Movie
-     -Tailer in Background
-     -Title and Description
-     -MovieSuggestions
-       -MovieLists * Netflix
- -NetflixGpt
-     -Search Bar      
-     -MovieSuggestions
+🤝 Contact
+Gyandeep Aryan - - shanukumar2929@gmail.com
