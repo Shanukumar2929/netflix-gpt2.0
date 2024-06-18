@@ -8,8 +8,8 @@ Contact
 
 🌟 About the Project
 📷 Screenshots
-image
-image
+![Screenshot (709)](https://github.com/Shanukumar2929/netflix-gpt2.0/assets/98840506/cc5ea109-58db-4af9-97bd-ee5fca403d94)
+![Screenshot (709)](https://github.com/Shanukumar2929/netflix-gpt2.0/assets/98840506/cc5ea109-58db-4af9-97bd-ee5fca403d94)
 image
 🎯 Features
 GPT-Search
@@ -21,7 +21,9 @@ Memoisation
 Color	Hex
 Primary Color	#E50914 #E50914
 Secondary Color	#0f0d0e #0f0d0e
-Accent Color	#fcba28 #fcba28
+Accent Color	#fcba28 #fcba28![Screenshot (710)](https://github.com/Shanukumar2929/netflix-gpt2.0/assets/98840506/322a08fe-4050-4dc5-a4e7-d7aecd7247bd)
+![Screenshot (712)](https://github.com/Shanukumar2929/netflix-gpt2.0/assets/98840506/401f70a0-7bc2-4962-850f-7ba6ba4c8cdf)
+
 Text Color	#fff #fff
 🔑 Environment Variables
 To run this project, you will need to add the following environment variables to your .env file
@@ -71,4 +73,5 @@ see contributing.md for ways to get started
 Please read the Code of Conduct
 
 🤝 Contact
-Gyandeep Aryan - - shanukumar2929@gmail.com
+Shanu Kumar - - shanukumar2929@gmail.com
+
